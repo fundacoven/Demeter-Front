@@ -1,0 +1,71 @@
+{
+    "users" : [{
+        "user-1" : {
+            "id": 1,
+            "nombre": "nombre",
+            "escuela": "escuela",
+            "estudiantes" : [{
+                "estudiante-1" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-2" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-3" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                }
+            }]
+        },
+        "user-2" : {
+            "id": 2,
+            "nombre": "nombre",
+            "escuela": "escuela",
+            "estudiantes" : [{
+                "estudiante-1" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-2" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-3" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                }
+            }]
+        },
+        "user-3" : {
+            "id": 3,
+            "nombre": "nombre",
+            "escuela": "escuela",
+            "estudiantes" : [{
+                "estudiante-1" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-2" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                "estudiante-3" : {
+                    "nombre": "nombre",
+                    "apellido": "apellido",
+                    "imagen": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                }
+            }]
+        }
+    }]
+    
+}
