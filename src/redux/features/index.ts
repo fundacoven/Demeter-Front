@@ -1,2 +1,2 @@
-export { authSliceReducer } from "./adminSlice";
-export { counterSliceReducer } from "./counterSlice";
+export { authReducer } from "./authSlice";
+
